@@ -1,0 +1,14 @@
+Breach Check Report
+==================================================
+Email  : bradjharrishd93@gmail.com
+Date   : 2026-04-23 13:27:11
+==================================================
+
+Breaches Found: 1
+
+[ ClickASnap.com ]
+  Date    : 2022-09
+  Accounts: 0
+  Exposed : Email addresses
+
+Pastes Found: 1

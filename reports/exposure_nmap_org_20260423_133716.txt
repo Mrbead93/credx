@@ -1,0 +1,23 @@
+Credential Exposure Report
+==================================================
+Domain  : nmap.org
+Date    : 2026-04-23 13:37:16
+==================================================
+
+[ GitHub Results — 0 ]
+
+[ Pastebin Results — 0 ]
+
+[ Emails Found — 0 ]
+
+[ Exposed Files — 0 ]
+
+[ Google Dorks ]
+  site:nmap.org filetype:env
+  site:nmap.org filetype:sql
+  site:nmap.org filetype:log password
+  site:nmap.org inurl:config
+  site:nmap.org inurl:backup
+  "@nmap.org" password
+  site:nmap.org "api_key"
+  site:nmap.org "secret_key"
